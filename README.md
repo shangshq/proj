@@ -5,3 +5,4 @@
 5. Java Learning:Remote
 6. Linux learning:Local
 7. CSS learning:Remote
+9. JS learning:Remote
